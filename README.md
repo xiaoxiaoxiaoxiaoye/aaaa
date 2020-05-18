@@ -6,4 +6,7 @@
         <p>https://www.meet.one</p>
     </div>
 </a>
-![avatar](http://baidu.com/pic/doge.png)
+<!-- # 从入门到精通 -->
+<!-- TokenPocket &copy; 2019 -->
+
+![](https://tp-statics.tokenpocket.pro/logo/header-bg.png)
