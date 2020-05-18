@@ -2,4 +2,3 @@
 <!-- TokenPocket &copy; 2019 -->
 
 ![](https://tp-statics.tokenpocket.pro/logo/header-bg.png)
-**（2009年 - 2013年）**
