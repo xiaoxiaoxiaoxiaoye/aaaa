@@ -206,7 +206,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 此外，我们还可以通过关注每个季度IOST节点合伙人贡献评级排名，来判断我们应该投给哪些真正为IOST社区贡献且投票奖励较高的节点合伙人。
 
 部分优秀IOST节点合伙人展示<br/>
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861354839.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589889570981.png "IOST钱包")
 
 ### 发行基于IOST公链的代币（Token）
 
