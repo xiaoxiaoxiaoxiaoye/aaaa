@@ -189,7 +189,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 *** 1、 IOST节点合伙人机制介绍 ***
 
 有志于成为IOST合伙人的个人或团队，只需填写合伙人申请表，即可成为候选人。节点合伙人申请表<br/>
-<div align="center">
+<div align="left">
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861261180.png">
 </div>
 
@@ -402,14 +402,14 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 ## IOST钱包知识自测
 
-<div align="center">
+<div align="left">
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863134106.png">
 </div>
 
 
 ## IOST钱包常见问题
 
-<div align="center">
+<div align="left">
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863201176.png">
 </div>
 
@@ -417,54 +417,54 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 ## IOST联系方式
 <main class="tp-main">
 
-<a class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon" href="javascript:;" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
     <div class="tp-content">
         <p>IOST官网：iost.io</p>
     </div>
-</a>
+</div>
 
-<a class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon" href="javascript:;" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870220254.png"/>
     <div class="tp-content">
         <p>微博：IOST社区</p>
     </div>
-</a>
+</div>
 
-<a class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon" href="javascript:;" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870346059.png"/>
     <div class="tp-content">
         <p>Twitter:  twitter.com/iosToken</p>
     </div>
-</a>
+</div>
 
-<a class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon" href="javascript:;" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870407994.png"/>
     <div class="tp-content">
         <p>Telegram:  t.me/iostchinese</p>
     </div>
-</a>
+</div>
 
-<a class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon" href="javascript:;" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870450791.png"/>
     <div class="tp-content">
         <p>GitHub: https://github.com/iost-official</p>
     </div>
-</a>
+</div>
 
-<a class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon" href="javascript:;" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870503428.png"/>
     <div class="tp-content">
         <p>Medium: medium.com/iost</p>
     </div>
-</a>
+</div>
 
-<a class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon" href="javascript:;" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870585429.png"/>
     <div class="tp-content">
         <p>Zendesk iost.zendesk.com</p>
     </div>
-</a>
+</div>
 </main>
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863338679.png "IOST钱包")

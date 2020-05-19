@@ -71,3 +71,8 @@
 .icon img {
     width: 50px;
 }
+
+.markdown-section a {
+    border: none;
+     !important;
+}
