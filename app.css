@@ -67,3 +67,7 @@
         text-align: center;
     }
 }
+
+.icon img {
+    width: 50px;
+}

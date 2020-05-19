@@ -17,7 +17,7 @@ IOST 账号由5~11个字符组成，字符包括字母、数字和下划线，�
 以 TokenPocet 钱包（以下简称TP钱包）为例，第一次创建 IOST 账号建议选择【激活码创建】，使用这种方式本质是把创建账号需要的资源费用以法币支付，可选的支付方式有支付宝、微信或 Paypal，十分便捷。
 
 <figure class="half">
-<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589858538611.png" width="50%"><img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589858538611.png" width="50%">
+<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870644665.png" width="50%"><img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589858538611.png" width="50%">
 </figure>
 
 ### ➢ 好友创建
@@ -397,30 +397,56 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 ## IOST联系方式
 <main class="tp-main">
-<!-- 币信 -->
-<a class="tp-custom" href="javascript:;" target="_blank">
-    <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/bixin.png"/>
+
+<a class="tp-custom icon" href="javascript:;" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
     <div class="tp-content">
-        <h5>币信</h5>
-        <p>https://bixin.com</p>
+        <p>IOST官网：iost.io</p>
     </div>
 </a>
 
-<a class="tp-custom" href="javascript:;" target="_blank">
-    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
+<a class="tp-custom icon" href="javascript:;" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870220254.png"/>
     <div class="tp-content">
-        <p>IOST官网：iost.io
-微博：IOST社区</p>
+        <p>微博：IOST社区</p>
+    </div>
+</a>
+
+<a class="tp-custom icon" href="javascript:;" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870346059.png"/>
+    <div class="tp-content">
+        <p>Twitter:  twitter.com/iosToken</p>
+    </div>
+</a>
+
+<a class="tp-custom icon" href="javascript:;" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870407994.png"/>
+    <div class="tp-content">
+        <p>Telegram:  t.me/iostchinese</p>
+    </div>
+</a>
+
+<a class="tp-custom icon" href="javascript:;" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870450791.png"/>
+    <div class="tp-content">
+        <p>GitHub: https://github.com/iost-official</p>
+    </div>
+</a>
+
+<a class="tp-custom icon" href="javascript:;" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870503428.png"/>
+    <div class="tp-content">
+        <p>Medium: medium.com/iost</p>
+    </div>
+</a>
+
+<a class="tp-custom icon" href="javascript:;" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870585429.png"/>
+    <div class="tp-content">
+        <p>Zendesk iost.zendesk.com</p>
     </div>
 </a>
 </main>
-<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png" width="50">IOST官网：iost.io
-微博：IOST社区<br/>
-Twitter  twitter.com/iosToken<br/>
-Telegram  t.me/iostchinese<br/>
-GitHub https://github.com/iost-official<br/>
-Medium medium.com/iost<br/>
-Zendesk iost.zendesk.com<br/>
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863338679.png "IOST钱包")
 
