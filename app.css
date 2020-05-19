@@ -15,6 +15,7 @@
     transition: all .3s;
     border: 1px solid #f1f1f1;
     text-decoration: none;
+    border: none !important;
 }
 
 .tp-custom:first-child {
@@ -70,8 +71,4 @@
 
 .icon img {
     width: 50px;
-}
-
-.markdown-section {
-    border: none !important;
 }
