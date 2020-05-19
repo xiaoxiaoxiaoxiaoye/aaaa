@@ -208,7 +208,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 部分优秀IOST节点合伙人展示<br/>
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861354839.png "IOST钱包")
 
-### 发行基于IOST公链的代币（Token
+### 发行基于IOST公链的代币（Token）
 
 任何人都可以在 IOST 主网上发行代币，在 IOST 发币非常简单，由节点合伙人 IOST TOOL 开发的一键发币工具可以帮助我们在 IOST 公链上发行自己的代币。
 
@@ -232,7 +232,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 ### IOST Token 相关
 
-*** 1、如何获得 IOST Token***
+*** 1、如何获得 IOST Token ***
 
 通过交易所交易、币币闪兑、法币购买这三种方式，用户可以很方便的获得IOST Token。
 
@@ -254,7 +254,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861771719.png "IOST钱包")
 
-### 2、如何进行IOST转账
+### 如何进行IOST转账
 
 (1）IOST转账需要消耗资源
 
@@ -302,7 +302,7 @@ IOST 账号在转账前，需要先保证账号内有足够的 IOST 资源，IOS
 
 总之，无论是地址簿转账，还是扫码转账以及通过最近转账交易记录转账，都可以在一定程度上防止由于手动输入账号错误所造成的不必要的损失。
 
-### 3、如何收款 IOST
+### 如何收款 IOST
 
 收款 IOST Token 也是在钱包内完成的，在收款时把 IOST 账号发给对方，或者把 IOST 账号的二维码发给对方，然后由对方完成转账操作。
 
