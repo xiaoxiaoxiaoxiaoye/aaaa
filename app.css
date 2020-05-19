@@ -1,10 +1,10 @@
 .tp-main {
-    display: flex;
+    /* display: flex; */
     width: 100%;
 }
 
 .tp-custom {
-    display: flex;
+    display: flex !important;
     flex: 1;
     align-items: center;
     padding: 15px;
@@ -22,8 +22,8 @@
 }
 
 .tp-custom:hover {
-    transform: translateY(-6px);
-    box-shadow: 0px 1px 2px 1px #efefef;
+    /* transform: translateY(-6px);
+    box-shadow: 0px 1px 2px 1px #efefef; */
 }
 
 .tp-logo {
