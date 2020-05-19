@@ -180,7 +180,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 在火币矿池进行投票挖矿前，需要把火币网币币账户中的 IOST 划转到矿池账户中，然后在IOST投票挖矿页面给节点进行投票。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860981218.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888981918.png "IOST钱包")
 
 ### IOST 节点合伙人
 
