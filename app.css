@@ -73,6 +73,5 @@
 }
 
 .markdown-section a {
-    border: none;
-     !important;
+    border: none !important;
 }
