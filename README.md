@@ -1,6 +1,6 @@
 # 从0到1入门IOST钱包
 
-###  前言
+## 前言
 
 自从比特币主网上线至今，区块链的发展经历了1.0-3.0三个时期的迭代，作为区块链的重要入口，钱包也逐渐发展完善。从最开始的只能储存、收发比特币的单链钱包，到后来能进行链上合约操作的以太坊钱包，再到现在钱包不止是为用户提供存储、流通的资产管理工具，更是一个公链生态服务平台，越来越多的钱包往多链方向发展。
 
@@ -417,49 +417,49 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 ## IOST联系方式
 <main class="tp-main">
 
-<div class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
     <div class="tp-content">
         <p>IOST官网：iost.io</p>
     </div>
 </div>
 
-<div class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870220254.png"/>
     <div class="tp-content">
         <p>微博：IOST社区</p>
     </div>
 </div>
 
-<div class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870346059.png"/>
     <div class="tp-content">
         <p>Twitter:  twitter.com/iosToken</p>
     </div>
 </div>
 
-<div class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870407994.png"/>
     <div class="tp-content">
         <p>Telegram:  t.me/iostchinese</p>
     </div>
 </div>
 
-<div class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870450791.png"/>
     <div class="tp-content">
         <p>GitHub: https://github.com/iost-official</p>
     </div>
 </div>
 
-<div class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870503428.png"/>
     <div class="tp-content">
         <p>Medium: medium.com/iost</p>
     </div>
 </div>
 
-<div class="tp-custom icon" href="javascript:;" target="_blank">
+<div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870585429.png"/>
     <div class="tp-content">
         <p>Zendesk iost.zendesk.com</p>
