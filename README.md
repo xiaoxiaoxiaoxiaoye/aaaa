@@ -392,31 +392,13 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 
 + 去中心化钱包：<br/>
-  <main class="tp-main">
-
-      <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
-          <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
-          <div class="tp-content">
-              <h5>库神</h5>
-              <p>https://www.coldlar.com</p>
-          </div>
-      </a>
-
-</main> 
 <main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
           <div class="tp-content">
-              <h5>库神</h5>
+              <h5>库神神神神</h5>
               <p>https://www.coldlar.com</p>
-          </div>
-      </a>
-       <a class="tp-custom tp-customs" href="https://www.Tokenpocket.pro" target="_blank">
-          <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894459599.png"/>
-          <div class="tp-content">
-              <h5>TokenPocket</h5>
-              <p>https://www.Tokenpocket.pro</p>
           </div>
       </a>
 
