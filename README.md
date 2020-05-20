@@ -392,7 +392,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 
 + 去中心化钱包：<br/>
-    <main class="tp-main">
+<main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://www.Tokenpocket.pro" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894459599.png"/>
@@ -401,6 +401,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://www.Tokenpocket.pro</p>
           </div>
       </a>
+
       <a class="tp-custom tp-customs" href="https://cobo.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894579177.png"/>
           <div class="tp-content">
@@ -408,6 +409,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://cobo.com</p>
           </div>
       </a>
+
       <a class="tp-custom tp-customs" href="http://purewallet.org" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894636963.png"/>
           <div class="tp-content">
@@ -415,6 +417,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>http://purewallet.org</p>
           </div>
       </a>
+
       <a class="tp-custom tp-customs" href="https://www.huobiwallet.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894692897.png"/>
           <div class="tp-content">
@@ -422,6 +425,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://www.huobiwallet.com</p>
           </div>
       </a>
+
        <a class="tp-custom tp-customs" href="https://app.bepal.pro/" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894736327.png"/>
           <div class="tp-content">
@@ -429,6 +433,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://app.bepal.pro/</p>
           </div>
       </a>
+
        <a class="tp-custom tp-customs" href="https://www.starteos.io" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894808120.png"/>
           <div class="tp-content">
@@ -436,6 +441,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://www.starteos.io</p>
           </div>
       </a>
+
        <a class="tp-custom tp-customs" href="https://www.infinitowallet.io" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895829338.png"/>
           <div class="tp-content">
@@ -443,6 +449,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://www.infinitowallet.io</p>
           </div>
       </a>
+
       <a class="tp-custom tp-customs" href="https://bigfour.io" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895894732.png"/>
           <div class="tp-content">
@@ -451,7 +458,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
           </div>
       </a>
 
-  </main> 
+</main> 
 
 +  硬件钱包<br/>
 <main class="tp-main">
@@ -468,7 +475,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 
 + 插件钱包<br/>
-    <main class="tp-main">
+<main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895952241.png"/>
@@ -477,6 +484,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj</p>
           </div>
       </a>
+
       <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895063706.png"/>
           <div class="tp-content">
@@ -485,7 +493,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
           </div>
       </a>
 
-  </main>
+</main>
 
 ## IOST 钱包知识自测
 
