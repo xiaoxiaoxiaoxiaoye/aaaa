@@ -489,6 +489,10 @@ body.close .content {
     .sidebar-toggle {
         position: fixed;
     }
+    
+    .markdown-section {
+        max-width: 90%;
+    }
 
     .app-nav {
         margin-top: 16px;
@@ -996,8 +1000,8 @@ pre:after {
 
 @media screen and (max-width: 767px) {
     section.cover {
-        background: url(https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589859349271.png) no-repeat !important;
-        background-size: 100% auto !important;
-        height: calc(100vw/1.92) !important;
+        background: url(https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591591295790.png) no-repeat !important;
+        /* background-size: 100% auto !important;
+        height: calc(100vw/1.86) !important; */
     }
 }

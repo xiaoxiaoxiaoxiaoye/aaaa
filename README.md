@@ -138,8 +138,6 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html
 
 投票者将获得其所投节点合伙人的当选奖励和生态贡献奖励的 50%作为分红，不参与造块奖励与其他奖励的分红。其中，当选奖励每天发放，贡献奖励每季度（3 个月）发放一次。
 
-投票者将获得其所投节点合伙人的当选奖励和生态贡献奖励的 50%作为分红，不参与造块奖励与其他奖励的分红。其中，当选奖励每天发放，贡献奖励每季度（3 个月）发放一次。
-
 **4、多种投票方式**
 
 - 通过 IOST 钱包投票
@@ -154,7 +152,7 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860560351.png "IOST钱包")
 
 - 通过 IOST 投票宝投票
--
+
 
 IOST 投票宝是由 IOST 节点合伙人 —— 猎币开发的 IOST 链上投票与分红领取工具，可以对比节点分红收益，一键领取每日分红等。
 
@@ -165,7 +163,6 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860618067.png "IOST钱包")
 
 - 特殊的投票玩法——矿池
--
 
 矿池是基于 PoS 建立的一种理财机制，用户使用 IOST Token 可以在矿池进行挖矿。
 
@@ -197,7 +194,7 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861261180.png">
     
 </div>
-<center>扫码申请成为IOST节点合伙人扫码申请成为IOST节点合伙人</center>
+<center>扫码申请成为IOST节点合伙人</center>
 
 IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
@@ -361,7 +358,7 @@ TokenPocket 钱包在原有权限管理的基础上，新增可添加、删除�
 
 ### 使用 IOST 浏览器
 
-区块链浏览器是浏览区块链信息的主要窗口，每一个区块所记载的内容都可以从区块链浏览器上进行查阅。目前常用的 IOST 浏览器有 ABC 浏览器https://www.IOSTabc.com/和极简浏览器https://explorer.IOST.io/
+区块链浏览器是浏览区块链信息的主要窗口，每一个区块所记载的内容都可以从区块链浏览器上进行查阅。目前常用的 IOST 浏览器有 ABC 浏览器<a href="https://www.IOSTabc.com/" target="_blank">https://www.IOSTabc.com/</a>和极简浏览器<a href="https://explorer.IOST.io/" target="_blank">https://explorer.IOST.io/</a>
 
 使用 IOST 浏览器可以查询 IOST 全网的基础数据:最新区块、交易数量、账户数量、代币数量等；查询账户信息:交易信息、Token 余额和抵押信息等；查询节点数据:节点排行、得票率、出块数量等。
 
@@ -390,9 +387,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 ## IOST 钱包分类
 
-
-+ 去中心化钱包：<br/>
-  
+- 去中心化钱包：<br/>
 <main class="tp-main">
 
 <a class="tp-custom tp-customs" href="https://www.Tokenpocket.pro" target="_blank">
@@ -402,7 +397,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>https://www.Tokenpocket.pro</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="https://cobo.com" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894579177.png"/>
     <div class="tp-content">
@@ -410,7 +404,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>https://cobo.com</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="http://purewallet.org" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894636963.png"/>
     <div class="tp-content">
@@ -418,7 +411,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>http://purewallet.org</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="https://www.huobiwallet.com" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894692897.png"/>
     <div class="tp-content">
@@ -426,7 +418,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>https://www.huobiwallet.com</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="https://app.bepal.pro/" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894736327.png"/>
     <div class="tp-content">
@@ -434,7 +425,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>https://app.bepal.pro/</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="https://www.starteos.io" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894808120.png"/>
     <div class="tp-content">
@@ -442,7 +432,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>https://www.starteos.io</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="https://www.infinitowallet.io" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895829338.png"/>
     <div class="tp-content">
@@ -450,7 +439,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>https://www.infinitowallet.io</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="https://bigfour.io" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895894732.png"/>
     <div class="tp-content">
@@ -459,23 +447,22 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
     </div>
 </a>
 
-</main> 
+</main>
 
-+  硬件钱包<br/>
+- 硬件钱包<br/>
 <main class="tp-main">
 
-      <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
-          <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
-          <div class="tp-content">
-              <h5>库神</h5>
-              <p>https://www.coldlar.com</p>
-          </div>
-      </a>
+<a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
+    <div class="tp-content">
+        <h5>库神</h5>
+        <p>https://www.coldlar.com</p>
+    </div>
+</a>
 
-</main> 
+</main>
 
-
-+ 插件钱包<br/>
+- 插件钱包<br/>
 <main class="tp-main">
 
 <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj" target="_blank">
@@ -485,7 +472,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
         <p>https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj</p>
     </div>
 </a>
-
 <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895063706.png"/>
     <div class="tp-content">
@@ -512,7 +498,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 <main class="tp-main">
 
-<a class="tp-custom icon contact" href="iost.io" target="_blank">
+<a class="tp-custom icon contact" href="https://iost.io" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
     <div class="tp-content">
         <p>IOST官网：iost.io</p>
@@ -526,14 +512,14 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="twitter.com/iosToken" target="_blank">
+<a class="tp-custom icon contact" href="https://twitter.com/iosToken" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870346059.png"/>
     <div class="tp-content">
         <p>Twitter:  twitter.com/iosToken</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="t.me/iostchinese" target="_blank">
+<a class="tp-custom icon contact" href="https://t.me/iostchinese" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870407994.png"/>
     <div class="tp-content">
         <p>Telegram:  t.me/iostchinese</p>
@@ -547,14 +533,14 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="medium.com/iost" target="_blank">
+<a class="tp-custom icon contact" href="https://medium.com/iost" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870503428.png"/>
     <div class="tp-content">
         <p>Medium: medium.com/iost</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="iost.zendesk.com" target="_blank">
+<a class="tp-custom icon contact" href="https://iost.zendesk.com" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870585429.png"/>
     <div class="tp-content">
         <p>Zendesk iost.zendesk.com</p>
@@ -570,5 +556,4 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 《从 0 到 1 入门 IOST 钱包》，又称为 IOST 钱包小白书。由 TokenPocket 联合 IOST 官方，以及 TokenPocket 社区志愿者（TP 侠：阿华、马云儿）共同撰写，详细介绍了当前 IOST 钱包与 IOST 生态密切结合的实例，是目前市面上最为详细的 IOST 数字钱包科普资料。<br/>
 
-1.本文版权归 TokenPocket 所有。<br/> 2.在征得作者同意的情况下，作品允许非盈利性引用，需要注明并请注明出处和作者，以尊重作者的劳动成果。<br/> 3.出处：https://tp-lab.github.io/BlockchainGuide-IOST/#/<br/>
-作者：TokenPocket。<br/> 4.未经允许，严禁转载。对非法转载者，TokenPocket 和作/译者保留采用法律手段追究的权利。<br/> 5.对于本文和本声明以及其修改权、更新权及最终解释权均属 TokenPocket。<br/> 6.以上声明的解释权归“TokenPocket”所有。<br/>
+1.本文版权归 TokenPocket 所有。<br/> 2.在征得作者同意的情况下，作品允许非盈利性引用，需要注明并请注明出处和作者，以尊重作者的劳动成果。<br/> 3.出处：<a href="https://tp-lab.github.io/BlockchainGuide-IOST/#/" target="_blank">https://tp-lab.github.io/BlockchainGuide-IOST/#/</a>,作者：TokenPocket。<br/> 4.未经允许，严禁转载。对非法转载者，TokenPocket 和作/译者保留采用法律手段追究的权利。<br/> 5.对于本文和本声明以及其修改权、更新权及最终解释权均属 TokenPocket。<br/> 6.以上声明的解释权归“TokenPocket”所有。<br/>
