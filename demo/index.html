@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <input type="file" accept="image/*" id="uploadImage" capture="camera" onchange="selectFileImage(this);"/>
+  </div>
+</body>
+<script>
+  window.onload(function(){
+    function selectFileImage (file){
+    var imgFile = file.files[0];
+    var oReader = new FileReader();
+
+    oReader.onload = function (e) {
+        console.log('图片信息', e.target.result);
+    }
+
+    oReader.readAsDataURL(imgFile);
+}
+  })
+</script>
+</html>
